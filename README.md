@@ -7,7 +7,7 @@ Marvin Nyanjui}**
 
 
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+{Currently there are no bugs identified }
 ## Technologies Used
 {The languages used to design this page was  HTML and CSS. }
 ## Support and contact details
